@@ -1,2 +1,2 @@
 # pooana
-Pra usar  no pycharm de ana luiza
+#Este e um projeto destinado a disciplina de progamação orientada a objetos
